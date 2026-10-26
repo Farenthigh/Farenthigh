@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tonyok Buranawanich</h1>
 <h3 align="center">An Applied computer science student from King Mongkut's University of Technology Thonburi</h3>
 
-- 🔭 I’m currently working on [Headliner](https://github.com/Farenthigh/headliner)
-
-- 🌱 I’m currently learning **Go, C# and Unity**
-
 - 📫 How to reach me **naxx.iiax@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
